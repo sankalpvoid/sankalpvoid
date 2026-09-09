@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Side B — vocals, guitar and music production">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="Side B — vocals, guitar and music production">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090806"/><stop offset="0.58" stop-color="#110d0a"/><stop offset="1" stop-color="#070709"/></linearGradient>
     <radialGradient id="warm" cx="50%" cy="50%" r="50%"><stop stop-color="#ff8b4a" stop-opacity="0.30"/><stop offset="1" stop-color="#ff8b4a" stop-opacity="0"/></radialGradient>
@@ -6,10 +6,10 @@
     <pattern id="lines" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M0 24L24 0" stroke="#ffffff" stroke-opacity="0.018"/></pattern>
   </defs>
 
-  <rect width="1200" height="470" rx="30" fill="url(#bg)"/>
-  <rect width="1200" height="470" rx="30" fill="url(#lines)"/>
-  <rect x="1" y="1" width="1198" height="468" rx="29" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
-  <circle cx="956" cy="230" r="230" fill="url(#warm)"/>
+  <rect width="1200" height="500" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="500" rx="30" fill="url(#lines)"/>
+  <rect x="1" y="1" width="1198" height="498" rx="29" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <circle cx="956" cy="236" r="238" fill="url(#warm)"/>
 
   <text x="58" y="58" fill="#d78d5c" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" letter-spacing="3">SIDE B / SOUND</text>
   <text x="1140" y="58" text-anchor="end" fill="#5d5650" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="2">INPUT: HUMAN</text>
@@ -19,23 +19,29 @@
 
   <text x="61" y="240" fill="#8f8781" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="16">Vocals · guitar · music production · unfinished demos at unreasonable hours.</text>
 
-  <g transform="translate(58 286)">
-    <rect x="0" y="0" width="170" height="72" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
-    <text x="20" y="29" fill="#776e68" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2">01 / VOICE</text>
-    <text x="20" y="53" fill="#f5f1ee" font-family="Inter,system-ui,sans-serif" font-size="17" font-weight="650">singing</text>
-  </g>
-  <g transform="translate(244 286)">
-    <rect x="0" y="0" width="170" height="72" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
-    <text x="20" y="29" fill="#776e68" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2">02 / STRINGS</text>
-    <text x="20" y="53" fill="#f5f1ee" font-family="Inter,system-ui,sans-serif" font-size="17" font-weight="650">guitar</text>
-  </g>
-  <g transform="translate(430 286)">
-    <rect x="0" y="0" width="208" height="72" rx="18" fill="#ff8b4a" fill-opacity="0.07" stroke="#ff8b4a" stroke-opacity="0.18"/>
-    <text x="20" y="29" fill="#9f7155" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2">03 / PRODUCTION</text>
-    <text x="20" y="53" fill="#ffd7b9" font-family="Inter,system-ui,sans-serif" font-size="17" font-weight="650">recording + mixing</text>
+  <g transform="translate(58 276)">
+    <rect width="580" height="76" rx="20" fill="#ff8b4a" fill-opacity="0.055" stroke="#ff8b4a" stroke-opacity="0.18"/>
+    <text x="24" y="28" fill="#8e684f" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2">CURRENTLY</text>
+    <text x="24" y="54" fill="#f7d6bd" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="600">turning questionable ideas into slightly less questionable sounds.</text>
   </g>
 
-  <g transform="translate(727 112)">
+  <g transform="translate(58 372)">
+    <rect x="0" y="0" width="170" height="62" rx="17" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.07"/>
+    <text x="18" y="25" fill="#776e68" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2">01 / VOICE</text>
+    <text x="18" y="47" fill="#f5f1ee" font-family="Inter,system-ui,sans-serif" font-size="16" font-weight="650">singing</text>
+  </g>
+  <g transform="translate(244 372)">
+    <rect x="0" y="0" width="170" height="62" rx="17" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.07"/>
+    <text x="18" y="25" fill="#776e68" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2">02 / STRINGS</text>
+    <text x="18" y="47" fill="#f5f1ee" font-family="Inter,system-ui,sans-serif" font-size="16" font-weight="650">guitar</text>
+  </g>
+  <g transform="translate(430 372)">
+    <rect x="0" y="0" width="208" height="62" rx="17" fill="#ff8b4a" fill-opacity="0.06" stroke="#ff8b4a" stroke-opacity="0.16"/>
+    <text x="18" y="25" fill="#9f7155" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2">03 / PRODUCTION</text>
+    <text x="18" y="47" fill="#ffd7b9" font-family="Inter,system-ui,sans-serif" font-size="16" font-weight="650">recording + mixing</text>
+  </g>
+
+  <g transform="translate(727 104)">
     <circle cx="188" cy="126" r="116" fill="#090806" stroke="#ffffff" stroke-opacity="0.08"/>
     <circle cx="188" cy="126" r="89" fill="none" stroke="#ff8b4a" stroke-opacity="0.28"/>
     <circle cx="188" cy="126" r="58" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
@@ -50,8 +56,8 @@
     </g>
   </g>
 
-  <line x1="58" y1="408" x2="1140" y2="408" stroke="#ffffff" stroke-opacity="0.07"/>
-  <circle cx="67" cy="438" r="5" fill="#ff666f"/>
-  <text x="84" y="442" fill="#876c5b" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="1.7">REC / LIVE</text>
-  <text x="1140" y="442" text-anchor="end" fill="#857466" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="1.7">@sankalp.singss · @sankalp.musicc</text>
+  <line x1="58" y1="458" x2="1140" y2="458" stroke="#ffffff" stroke-opacity="0.07"/>
+  <circle cx="67" cy="482" r="5" fill="#ff666f"/>
+  <text x="84" y="486" fill="#876c5b" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="1.7">REC / LIVE</text>
+  <text x="1140" y="486" text-anchor="end" fill="#857466" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="1.7">@sankalp.singss · @sankalp.mussic</text>
 </svg>

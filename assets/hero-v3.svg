@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="sankalpvoid — engineering, software, music and systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060708"/>
+      <stop offset="0.52" stop-color="#0a0b0f"/>
+      <stop offset="1" stop-color="#050608"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#9b87f5" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#9b87f5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amberGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ff9b52" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ff9b52" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#9b87f5"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff9b52"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="560" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="560" rx="32" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="558" rx="31" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+
+  <circle cx="982" cy="182" r="210" fill="url(#violetGlow)"/>
+  <circle cx="1038" cy="384" r="168" fill="url(#amberGlow)"/>
+
+  <text x="68" y="68" fill="#9b87f5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" letter-spacing="4">SANKALP / VOID — PROFILE SIGNAL</text>
+  <circle cx="1090" cy="63" r="5" fill="#83f6a7"/>
+  <text x="1110" y="68" fill="#858b96" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" letter-spacing="2">ONLINE</text>
+
+  <text x="66" y="206" fill="#f7f7f8" font-family="Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="96" font-weight="800" letter-spacing="-5">SANKALP</text>
+  <text x="66" y="307" fill="none" stroke="#f7f7f8" stroke-opacity="0.58" stroke-width="1.6" font-family="Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="104" font-weight="800" letter-spacing="-5">VOID</text>
+
+  <text x="70" y="355" fill="#a7acb6" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="16" letter-spacing="2.2">ENGINEERING × SOFTWARE × MUSIC × SYSTEMS</text>
+  <text x="70" y="395" fill="#6f7580" font-family="Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17">I like difficult problems, strange intersections, and making things that feel alive.</text>
+
+  <g transform="translate(810 112)">
+    <circle cx="166" cy="166" r="128" fill="#08090c" stroke="#ffffff" stroke-opacity="0.11"/>
+    <circle cx="166" cy="166" r="92" fill="none" stroke="#9b87f5" stroke-opacity="0.55" stroke-width="1.4"/>
+    <circle cx="166" cy="166" r="57" fill="none" stroke="#ff9b52" stroke-opacity="0.45"/>
+    <circle cx="166" cy="166" r="8" fill="#f6f3ff"/>
+    <path d="M166 18V314M18 166H314" stroke="#ffffff" stroke-opacity="0.055"/>
+    <path d="M52 89C98 48 130 120 166 88C203 56 234 113 280 71" fill="none" stroke="#9b87f5" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M52 244C96 219 129 286 166 248C203 210 239 272 280 229" fill="none" stroke="#ff9b52" stroke-width="2.2" stroke-linecap="round"/>
+
+    <g transform="translate(38 142)">
+      <rect x="0" y="0" width="9" height="48" rx="4" fill="#ffffff" fill-opacity="0.14"/>
+      <rect x="17" y="-18" width="9" height="84" rx="4" fill="#9b87f5" fill-opacity="0.72"/>
+      <rect x="34" y="10" width="9" height="28" rx="4" fill="#ffffff" fill-opacity="0.16"/>
+      <rect x="51" y="-32" width="9" height="112" rx="4" fill="#ff9b52" fill-opacity="0.62"/>
+      <rect x="68" y="-5" width="9" height="58" rx="4" fill="#ffffff" fill-opacity="0.13"/>
+    </g>
+  </g>
+
+  <line x1="68" y1="454" x2="1132" y2="454" stroke="url(#line)" stroke-opacity="0.42"/>
+
+  <g fill="#777d88" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="1.8">
+    <text x="70" y="491">01 / BUILD</text>
+    <text x="282" y="491">02 / LEARN</text>
+    <text x="494" y="491">03 / MAKE</text>
+    <text x="706" y="491">04 / SING</text>
+    <text x="918" y="491">05 / SHIP</text>
+  </g>
+  <g fill="#d5d7dc" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="600">
+    <text x="70" y="520">products</text>
+    <text x="282" y="520">systems</text>
+    <text x="494" y="520">experiments</text>
+    <text x="706" y="520">songs</text>
+    <text x="918" y="520">repeat</text>
+  </g>
+
+  <text x="1132" y="521" text-anchor="end" fill="#9a7b66" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="1.8">VOID::SIGNAL_01</text>
+</svg>

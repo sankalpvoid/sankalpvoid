@@ -61,7 +61,7 @@
   <sub>
     <a href="https://www.instagram.com/sankalp.singss/">Instagram / @sankalp.singss</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://www.youtube.com/@sankalp.musicc">YouTube / @sankalp.musicc</a>
+    <a href="https://www.youtube.com/@sankalp.mussic">YouTube / @sankalp.mussic</a>
   </sub>
 </div>
 

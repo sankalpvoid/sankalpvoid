@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Working set — languages, platforms and analytical tools">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0c10"/><stop offset="1" stop-color="#07080a"/></linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="50" y="52" fill="#6f7580" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" letter-spacing="3">WORKING SET / 03</text>
+  <text x="1150" y="52" text-anchor="end" fill="#4d525b" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="2">TOOLS ≠ IDENTITY</text>
+
+  <text x="50" y="108" fill="#f0f2f5" font-family="Inter,system-ui,sans-serif" font-size="29" font-weight="700">things I reach for.</text>
+  <text x="50" y="136" fill="#777d88" font-family="Inter,system-ui,sans-serif" font-size="14">Enough to build, analyse, test, break and rebuild.</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">
+    <rect x="50" y="180" width="132" height="42" rx="21" fill="#9b87f5" fill-opacity="0.08" stroke="#9b87f5" stroke-opacity="0.18"/><text x="116" y="206" text-anchor="middle" fill="#b7ace9">JAVASCRIPT</text>
+    <rect x="194" y="180" width="104" height="42" rx="21" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/><text x="246" y="206" text-anchor="middle" fill="#9096a2">PYTHON</text>
+    <rect x="310" y="180" width="94" height="42" rx="21" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/><text x="357" y="206" text-anchor="middle" fill="#9096a2">REACT</text>
+    <rect x="416" y="180" width="116" height="42" rx="21" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/><text x="474" y="206" text-anchor="middle" fill="#9096a2">HTML/CSS</text>
+    <rect x="544" y="180" width="118" height="42" rx="21" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/><text x="603" y="206" text-anchor="middle" fill="#9096a2">SUPABASE</text>
+    <rect x="674" y="180" width="98" height="42" rx="21" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/><text x="723" y="206" text-anchor="middle" fill="#9096a2">VERCEL</text>
+    <rect x="784" y="180" width="72" height="42" rx="21" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/><text x="820" y="206" text-anchor="middle" fill="#9096a2">GIT</text>
+    <rect x="868" y="180" width="108" height="42" rx="21" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/><text x="922" y="206" text-anchor="middle" fill="#9096a2">POWER BI</text>
+    <rect x="988" y="180" width="162" height="42" rx="21" fill="#ff9b52" fill-opacity="0.05" stroke="#ff9b52" stroke-opacity="0.13"/><text x="1069" y="206" text-anchor="middle" fill="#a98770">DATA ANALYSIS</text>
+
+    <rect x="50" y="238" width="150" height="42" rx="21" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.07"/><text x="125" y="264" text-anchor="middle" fill="#737984">PRODUCT THINKING</text>
+    <rect x="212" y="238" width="136" height="42" rx="21" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.07"/><text x="280" y="264" text-anchor="middle" fill="#737984">SYSTEMS THINKING</text>
+    <rect x="360" y="238" width="126" height="42" rx="21" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.07"/><text x="423" y="264" text-anchor="middle" fill="#737984">PROTOTYPING</text>
+    <rect x="498" y="238" width="152" height="42" rx="21" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.07"/><text x="574" y="264" text-anchor="middle" fill="#737984">QUANTITATIVE WORK</text>
+  </g>
+
+  <line x1="50" y1="306" x2="1150" y2="306" stroke="#ffffff" stroke-opacity="0.06"/>
+  <text x="50" y="326" fill="#4f545e" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="1.6">USE THE TOOL · DON’T BECOME THE TOOL</text>
+</svg>

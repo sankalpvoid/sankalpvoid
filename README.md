@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-v2.svg" width="100%" alt="sankalpvoid — engineer, builder, analyst" />
+  <img src="./assets/hero-v2.svg" width="100%" alt="sankalpvoid — engineer, builder, analyst and musician" />
 </div>
 
 <br>
@@ -8,7 +8,7 @@
 
 I’m **Sankalp** — an engineering student at **IIT Bombay** who likes working across disciplines instead of choosing one box and staying in it.
 
-I’m drawn to **software, products, data, environmental systems, finance, design and behaviour** — especially when two or three of those collide into an interesting problem.
+I’m drawn to **software, products, data, environmental systems, finance, design, behaviour and music** — especially when two or three of those collide into an interesting problem.
 
 <br>
 
@@ -55,9 +55,19 @@ I’m drawn to **software, products, data, environmental systems, finance, desig
 
 <br>
 
-### `04` / field note
+### `04` / frequencies
 
-> I’m less interested in collecting labels than in getting better at understanding difficult problems — and building useful things around them.
+<div align="center">
+  <a href="https://www.instagram.com/sankalp.singss/">
+    <img src="./assets/frequencies.svg" width="100%" alt="Music — vocals, guitar and music production" />
+  </a>
+</div>
+
+<br>
+
+### `05` / field note
+
+> I’m less interested in collecting labels than in getting better at understanding difficult problems — and making things worth putting into the world.
 
 <br>
 

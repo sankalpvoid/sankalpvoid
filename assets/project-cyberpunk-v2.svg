@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" role="img" aria-label="CyberPunk project card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1016"/><stop offset="1" stop-color="#08090c"/></linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8f7cff"/><stop offset="0.55" stop-color="#ff5ea8"/><stop offset="1" stop-color="#ff9b52"/></linearGradient>
+  </defs>
+  <rect width="560" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="558" height="318" rx="23" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+  <path d="M0 66H560M0 132H560M0 198H560M0 264H560M93 0V320M186 0V320M279 0V320M372 0V320M465 0V320" stroke="#ffffff" stroke-opacity="0.025"/>
+  <path d="M356 72L476 72L444 104L500 104L392 228L418 146L362 146Z" fill="none" stroke="url(#neon)" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M356 246H510" stroke="url(#neon)" stroke-width="2" stroke-opacity="0.75"/>
+  <text x="30" y="40" fill="#8d81d2" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2">02 / VISUAL WEB</text>
+  <text x="30" y="102" fill="#f4f5f7" font-family="Inter,system-ui,sans-serif" font-size="34" font-weight="760" letter-spacing="-1">CyberPunk</text>
+  <text x="30" y="130" fill="#949aa6" font-family="Inter,system-ui,sans-serif" font-size="14">frontend × atmosphere × interaction</text>
+  <text x="30" y="181" fill="#6f7580" font-family="Inter,system-ui,sans-serif" font-size="13">An early visual experiment exploring</text>
+  <text x="30" y="201" fill="#6f7580" font-family="Inter,system-ui,sans-serif" font-size="13">immersive, stylised web experiences.</text>
+  <rect x="30" y="244" width="104" height="26" rx="13" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="82" y="261" text-anchor="middle" fill="#7f8591" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9">JAVASCRIPT</text>
+  <rect x="144" y="244" width="88" height="26" rx="13" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="188" y="261" text-anchor="middle" fill="#7f8591" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9">FRONTEND</text>
+  <text x="30" y="296" fill="#7f8591" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" letter-spacing="1.3">OPEN REPOSITORY ↗</text>
+</svg>

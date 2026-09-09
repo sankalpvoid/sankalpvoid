@@ -1,103 +1,66 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="sankalpvoid — engineer, builder, analyst" />
+  <img src="./assets/hero-v2.svg" width="100%" alt="sankalpvoid — engineer, builder, analyst" />
 </div>
 
 <br>
 
-### `01` / about
+### `01` / signal
 
-Engineering at **IIT Bombay**, with interests that refuse to stay in one lane.
+I’m **Sankalp** — an engineering student at **IIT Bombay** who likes working across disciplines instead of choosing one box and staying in it.
 
-I work across **software, product, data, environmental systems and finance**. I like understanding how things work, finding the interesting problem underneath the obvious one, and turning ideas into something tangible.
-
-<br>
-
-### `02` / current orbit
-
-```text
-building      →  Reclaim + small experiments
-exploring     →  product engineering & thoughtful software
-learning      →  data, analytics & finance
-interested in →  systems, behaviour, design & real-world problems
-```
+I’m drawn to **software, products, data, environmental systems, finance, design and behaviour** — especially when two or three of those collide into an interesting problem.
 
 <br>
 
-### `03` / selected work
+<div align="center">
+  <img src="./assets/orbit.svg" width="100%" alt="Current orbit — what I am building, learning and exploring" />
+</div>
+
+<br>
+
+### `02` / selected transmissions
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### Reclaim
-
-A behaviour-focused product exploring better ways to help people change their relationship with smoking.
-
-`product` `javascript` `supabase` `vercel`
-
+  <img src="./assets/project-reclaim.svg" width="100%" alt="Reclaim" />
 </td>
 <td width="50%" valign="top">
-
-#### [CyberPunk](https://github.com/sankalpvoid/CyberPunk)
-
-An experimental frontend build from my exploration of visual web experiences.
-
-`javascript` `frontend` `web`
-
+  <a href="https://github.com/sankalpvoid/CyberPunk">
+    <img src="./assets/project-cyberpunk.svg" width="100%" alt="CyberPunk" />
+  </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### [Parallax Website](https://github.com/sankalpvoid/Parallax-Website)
-
-Exploring depth, motion and interaction on the web.
-
-`frontend` `interaction` `motion`
-
+  <a href="https://github.com/sankalpvoid/Parallax-Website">
+    <img src="./assets/project-parallax.svg" width="100%" alt="Parallax Website" />
+  </a>
 </td>
 <td width="50%" valign="top">
-
-#### [GSAP Scroll Trigger](https://github.com/sankalpvoid/GSAP-Scroll_Trigger)
-
-Experiments with scroll-driven animation and interface movement.
-
-`gsap` `javascript` `animation`
-
+  <a href="https://github.com/sankalpvoid/GSAP-Scroll_Trigger">
+    <img src="./assets/project-gsap.svg" width="100%" alt="GSAP Scroll Trigger" />
+  </a>
 </td>
 </tr>
 </table>
 
 <br>
 
-### `04` / toolkit
+### `03` / working set
 
 <div align="center">
-
-`JavaScript` &nbsp; `Python` &nbsp; `HTML/CSS` &nbsp; `React` &nbsp; `Supabase`  
-`Git` &nbsp; `GitHub` &nbsp; `Vercel` &nbsp; `Power BI` &nbsp; `Data Analysis`
-
+  <img src="./assets/toolkit.svg" width="100%" alt="Toolkit — JavaScript, Python, React, Supabase, Vercel, Git, Power BI and more" />
 </div>
 
 <br>
 
-### `05` / beyond code
+### `04` / field note
 
-**Environmental systems** — engineering, sustainability and systems thinking.  
-**Product** — behaviour, UX and solving actual user problems.  
-**Data** — finding patterns and turning information into decisions.  
-**Finance** — businesses, markets and quantitative thinking.
+> I’m less interested in collecting labels than in getting better at understanding difficult problems — and building useful things around them.
 
 <br>
 
----
-
 <div align="center">
-
-<sub>curious across disciplines. building across them.</sub>
-
-<br><br>
-
-`VOID::ONLINE`
-
+  <img src="./assets/footer.svg" width="100%" alt="sankalpvoid footer — curious across disciplines, building across them" />
 </div>

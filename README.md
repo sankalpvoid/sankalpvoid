@@ -24,20 +24,20 @@
   <img src="./assets/project-reclaim-v2.svg" width="100%" alt="Reclaim" />
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/sankalpvoid/CyberPunk">
-    <img src="./assets/project-cyberpunk-v2.svg" width="100%" alt="CyberPunk" />
+  <a href="https://cyberpunk-seven-beta.vercel.app/">
+    <img src="https://raw.githubusercontent.com/sankalpvoid/sankalpvoid/main/assets/project-cyberpunk-v2.svg" width="100%" alt="CyberPunk — open live demo" />
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/sankalpvoid/Parallax-Website">
-    <img src="./assets/project-parallax-v2.svg" width="100%" alt="Parallax Website" />
+  <a href="https://parallax-website-beta-pearl.vercel.app/">
+    <img src="https://raw.githubusercontent.com/sankalpvoid/sankalpvoid/main/assets/project-parallax-v2.svg" width="100%" alt="Parallax Website — open live demo" />
   </a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/sankalpvoid/GSAP-Scroll_Trigger">
-    <img src="./assets/project-gsap-v2.svg" width="100%" alt="GSAP Scroll Trigger" />
+  <a href="https://gsap-motion.vercel.app/">
+    <img src="https://raw.githubusercontent.com/sankalpvoid/sankalpvoid/main/assets/project-gsap-v2.svg" width="100%" alt="GSAP Scroll Trigger — open live demo" />
   </a>
 </td>
 </tr>

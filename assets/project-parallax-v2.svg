@@ -20,5 +20,5 @@
   <text x="74" y="261" text-anchor="middle" fill="#7f8591" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9">FRONTEND</text>
   <rect x="128" y="244" width="76" height="26" rx="13" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.08"/>
   <text x="166" y="261" text-anchor="middle" fill="#7f8591" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9">MOTION</text>
-  <text x="30" y="296" fill="#7f8591" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" letter-spacing="1.3">OPEN REPOSITORY ↗</text>
+  <text x="30" y="296" fill="#7f8591" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" letter-spacing="1.3">OPEN LIVE DEMO ↗</text>
 </svg>
